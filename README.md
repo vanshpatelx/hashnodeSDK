@@ -23,3 +23,10 @@ Before you begin, ensure you have Node.js installed on your machine.
 
    ```bash
    npm install hashnode-sdk
+
+
+**Note: Working on Project - Possible Errors and Bugs**
+
+Please be aware that this project is currently in progress, and you may encounter some errors or bugs during its development. We are actively addressing and resolving issues, but it's recommended to proceed with caution and report any issues you encounter. Your understanding and cooperation are appreciated as we work towards delivering a stable and improved project.
+
+Thank you!
