@@ -22,4 +22,4 @@ Before you begin, ensure you have Node.js installed on your machine.
 1. **Install the Hashnode SDK from npm:**
 
    ```bash
-   npm install @your-username/hashnode-sdk
+   npm install hashnode-sdk
