@@ -2,6 +2,14 @@
 
 Welcome to the Hashnode SDK! This package provides a simple and convenient way to interact with the Hashnode GraphQL API using JavaScript.
 
+> ⚠️ **Project Update: Ongoing Development**
+> - The project is currently ongoing.
+> - You may encounter issues during this phase.
+> - Some functionalities may not be working as expected.
+> - If you discover any errors or bugs, please report them or raise an issue.
+> - If you're interested in contributing to building the project together, please contact me.
+
+
 ## Description
 
 The Hashnode SDK is designed to ease the integration of Hashnode's GraphQL API into your projects, making it straightforward to retrieve information about publications, blog posts, articles, series, and static pages.

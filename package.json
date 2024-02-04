@@ -1,6 +1,6 @@
 {
-  "name": "newsdk",
-  "version": "1.0.0",
+  "name": "hashnode-sdk",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.ts",
   "scripts": {
